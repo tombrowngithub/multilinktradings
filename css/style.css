@@ -1605,17 +1605,50 @@ form label {
         width: 100% !important;
 
     }
-    .company-img{
-       height: 100%;
+
+    .company-img {
+        height: 100%;
     }
 }
 
-.gtco-heading h2{
+.gtco-heading h2 {
     color: gray;
 }
-.gtco-heading p{
+
+.gtco-heading p {
     color: #1b6d85;
 }
 
+.text-in-display-tc {
+    color: white;
+    text-shadow: 0 0 2px gray;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-top: -2.8rem !important;
+    line-height: 2.035rem;
+    letter-spacing: 0.25rem;
+}
 
 
+.animated-text {
+    display: inline-block;
+    width: 18ch;
+    animation: typing 3s steps(18) infinite, blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
