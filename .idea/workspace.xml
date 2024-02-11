@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0358f3d-22fb-4e9d-99eb-4e86cb2a9e64" name="Changes" comment="">
+    <list default="true" id="f0358f3d-22fb-4e9d-99eb-4e86cb2a9e64" name="Changes" comment="Added text animation">
+      <change afterPath="$PROJECT_DIR$/images/bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contractor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/crudeoil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/electronics.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img_bg_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person_3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Administrator/WebstormProjects/multilinktradings",
+    "last_opened_file_path": "C:/Users/Administrator/WebstormProjects/multilinktradings/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +60,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\multilinktradings\images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\multilinktradings\img" />
       <recent name="C:\Users\Administrator\Desktop\greatness\img" />
       <recent name="C:\Users\Administrator\Desktop\greatness\images" />
     </key>
@@ -64,11 +79,25 @@
       <workItem from="1702640564107" duration="22079000" />
       <workItem from="1702729032826" duration="136000" />
       <workItem from="1702729193082" duration="70000" />
-      <workItem from="1702836501977" duration="6861000" />
+      <workItem from="1702836501977" duration="8138000" />
+      <workItem from="1702888214940" duration="3278000" />
+      <workItem from="1707469232997" duration="11593000" />
     </task>
+    <task id="LOCAL-00001" summary="Added text animation">
+      <created>1702843544666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702843544666</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added text animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added text animation" />
   </component>
 </project>
